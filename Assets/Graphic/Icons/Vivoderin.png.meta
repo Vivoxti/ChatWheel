@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 9b7e703965aba3a49b742f7e01365f3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5657005202546774482
+    second: 1vivoderin_0
+  - first:
+      213: -7750082869451814576
+    second: 1vivoderin_1
+  - first:
+      213: 4527307265589292741
+    second: 1vivoderin_2
+  - first:
+      213: 3678467324429926443
+    second: 1vivoderin_3
+  - first:
+      213: 7161750093360961772
+    second: 1vivoderin_4
+  - first:
+      213: -5932589423979245662
+    second: 1vivoderin_5
+  - first:
+      213: -8325795588887778175
+    second: 1vivoderin_6
+  - first:
+      213: -6588182978389903773
+    second: 1vivoderin_7
+  - first:
+      213: 7324873400564579251
+    second: 1vivoderin_8
+  - first:
+      213: 1264890215353061550
+    second: 1vivoderin_9
+  - first:
+      213: -3258853728829294156
+    second: 1vivoderin_10
+  - first:
+      213: -5146078197978630395
+    second: 1vivoderin_11
+  - first:
+      213: 3071039668763204639
+    second: 1vivoderin_12
+  - first:
+      213: 4196320614961059519
+    second: 1vivoderin_13
+  - first:
+      213: -7955415916103582926
+    second: 1vivoderin_14
+  - first:
+      213: 3619081607723150221
+    second: 1vivoderin_15
+  - first:
+      213: 7821716902255467699
+    second: 1vivoderin_16
+  - first:
+      213: 6492781751035450861
+    second: 1vivoderin_17
+  - first:
+      213: -6676146854699762346
+    second: 1vivoderin_18
+  - first:
+      213: 7471204016302006317
+    second: 1vivoderin_19
+  - first:
+      213: 371064748509840796
+    second: 1vivoderin_20
+  - first:
+      213: 5424945550373850642
+    second: 1vivoderin_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1vivoderin_0
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 528
+        width: 603
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ea9a98db74e71b0800000000000000
+      internalID: -5657005202546774482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_1
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1146
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0590c7221bc227490800000000000000
+      internalID: -7750082869451814576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_2
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1165
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ceae7aa8f934de30800000000000000
+      internalID: 4527307265589292741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 411
+        width: 477
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20078eca8a8c0330800000000000000
+      internalID: 3678467324429926443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_4
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 412
+        width: 316
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce896ece3c5a36360800000000000000
+      internalID: 7161750093360961772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_5
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 558
+        width: 247
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af4a71e9553bada0800000000000000
+      internalID: -5932589423979245662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_6
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 411
+        width: 161
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c64db1605d47c80800000000000000
+      internalID: -8325795588887778175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 412
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3667bc1ac721294a0800000000000000
+      internalID: -6588182978389903773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_8
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 276
+        width: 93
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbfb598c8d27a560800000000000000
+      internalID: 7324873400564579251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 276
+        width: 16
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea09cfdf2facd8110800000000000000
+      internalID: 1264890215353061550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_10
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 276
+        width: 93
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b93c2ebcc936c2d0800000000000000
+      internalID: -3258853728829294156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_11
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 276
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507f91fd4257598b0800000000000000
+      internalID: -5146078197978630395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_12
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 276
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c93c3ce468e9a20800000000000000
+      internalID: 3071039668763204639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_13
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 276
+        width: 80
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb61762cd535c3a30800000000000000
+      internalID: 4196320614961059519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_14
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 276
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b3828bf5fa89190800000000000000
+      internalID: -7955415916103582926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_15
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 276
+        width: 16
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bec792c8f893230800000000000000
+      internalID: 3619081607723150221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_16
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 276
+        width: 89
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc1b94d4125c8c60800000000000000
+      internalID: 7821716902255467699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_17
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 97
+        width: 90
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de55b923a9efa1a50800000000000000
+      internalID: 6492781751035450861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_18
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 98
+        width: 103
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d7741becf8953a0800000000000000
+      internalID: -6676146854699762346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_19
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 98
+        width: 105
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20272cf77c0fa760800000000000000
+      internalID: 7471204016302006317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_20
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 98
+        width: 80
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95499b3c69462500800000000000000
+      internalID: 371064748509840796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1vivoderin_21
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 96
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e8ed74c37494b40800000000000000
+      internalID: 5424945550373850642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1vivoderin_0: -5657005202546774482
+      1vivoderin_1: -7750082869451814576
+      1vivoderin_10: -3258853728829294156
+      1vivoderin_11: -5146078197978630395
+      1vivoderin_12: 3071039668763204639
+      1vivoderin_13: 4196320614961059519
+      1vivoderin_14: -7955415916103582926
+      1vivoderin_15: 3619081607723150221
+      1vivoderin_16: 7821716902255467699
+      1vivoderin_17: 6492781751035450861
+      1vivoderin_18: -6676146854699762346
+      1vivoderin_19: 7471204016302006317
+      1vivoderin_2: 4527307265589292741
+      1vivoderin_20: 371064748509840796
+      1vivoderin_21: 5424945550373850642
+      1vivoderin_3: 3678467324429926443
+      1vivoderin_4: 7161750093360961772
+      1vivoderin_5: -5932589423979245662
+      1vivoderin_6: -8325795588887778175
+      1vivoderin_7: -6588182978389903773
+      1vivoderin_8: 7324873400564579251
+      1vivoderin_9: 1264890215353061550
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

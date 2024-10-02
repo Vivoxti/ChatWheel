@@ -1,0 +1,12 @@
+# ninja log v5
+96	720	7494469489779802	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	31f972a468ad5738
+723	1081	7494469493190083	C:/Vivoderin Studio/ChatWheel/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5lu6y4n3/obj/arm64-v8a/libswappywrapper.so	3f378e0f81c544b1
+70	2300	7494469505345224	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4ce8d96a0cf2dd34
+25	2303	7494469505486871	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	415f41426a2f1366
+8	2345	7494469505947286	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	14eb6324dbcf1c22
+48	2352	7494469506048549	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	66c552550244869b
+85	2465	7494469507154102	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	cfaba5a951d5eeee
+1	2708	7494469509607700	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	bb6c8be70daeecd3
+35	2821	7494469510840206	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	4688d8a89b839e31
+16	3019	7494469512779532	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	532636db8bd73943
+3020	3154	7494469514206963	C:/Vivoderin Studio/ChatWheel/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5lu6y4n3/obj/arm64-v8a/libgame.so	41ea3cfa06ffe63f
